@@ -1,2 +1,4 @@
 Day thuoc brance week1
+<<<<<<< ours
 Tao dang o main
+
